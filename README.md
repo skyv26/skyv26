@@ -3,7 +3,7 @@
 This is **Aakash Verma** from **INDIA 🇮🇳**. <br />
 I am a web developer.
 
-Here are some ideas to get you started:
+## **OPEN FOR NEW OPPORTUNITY** 
 
 - 🔭 I’m currently working on Web Development Technologies
 - 🌱 I’m currently learning JavaScript
