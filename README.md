@@ -5,9 +5,7 @@
 
 <br />
 
-I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experience in Web Development and I built so many projects using **Vanilla JS**, **React.js**. I have delivered the work successfully as per requirements with pixel perfect design. I have made so many scripts using **Python** for *Web Data Scraping*. I also have worked on **Embedded System**, I have *1 year* of experience in this field *too* and successfully made so many projects or solutions as per requirement using **Raspberry Pi 4 B+**, **Beaglebone Black Wireless**, **Arduino UNO** and **ESP boards too**. Apart from this, I have knowledge on **Internet Of Things (IoT)** and, because I'm a great learner so I always try to learn something new in order to update myself with industry requirement. 
-
-Skills: JavaScript, React.Js, SASS, CSS3, HTML5, UI Design (Figma)
+I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experience in Web Development and I built so many projects using **Vanilla JS**, **React.js**. I have delivered the work successfully as per requirements with pixel perfect design. 
 
 - 🔭 I’m currently working on JavaScript, Webpack 
 - 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
