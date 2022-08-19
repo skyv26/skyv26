@@ -5,7 +5,7 @@
 
 <br />
 
-I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experience in Web Development and I built so many projects using **Vanilla JS**, **React.js**. I have delivered the work successfully as per requirements with pixel perfect design. 
+I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experience in Web Development.
 
 - 🔭 I’m currently working on JavaScript, Webpack 
 - 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
