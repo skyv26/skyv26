@@ -7,7 +7,7 @@
 
 I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experience in Web Development.
 
-- 🔭 I’m currently working on JavaScript, Webpack 
+- 🔭 I’m currently working on Backend Framework Python Django.
 - 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
 - 👯 I’m looking to collaborate on **Open Source Project** and **IoT** 
 - 💬 Ask me about *anything* 
