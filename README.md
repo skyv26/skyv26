@@ -16,7 +16,7 @@ I am a passionate **Front-end Developer** from **INDIA** with 1+ years of experi
 - ⚡ Fun fact: I really like electronics and programming 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyv26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyv26&layout=compact&langs=9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyv26&show_icons=true)  
 
