@@ -14,7 +14,7 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 - 📫 How to reach me: 
   - 📧 **dev.aakashv@gmail.com** 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I really like electronics and programming 
+- ⚡ Fun fact: I love electronics and programming.
 
 <a href="https://github.com/skyv26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyv26&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
