@@ -11,9 +11,8 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 - 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
 - 👯 I’m looking to collaborate on **Open Source Project** and **IoT** 
 - 💬 Ask me *anything* about `Techonology`
-- 📫 How to reach me: 
-  - 📧 **dev.aakashv@gmail.com** 
-- 😄 Pronouns: He / Him 
+- 📫 <a href="mailto:dev.aakashv@gmail.com">Send an email</a> 
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love electronics and programming.
 
 <a href="https://github.com/skyv26">
