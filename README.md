@@ -33,4 +33,9 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 </a>
 <br />
 <br />
-<img src="https://gpvc.arturio.dev/skyv26" width="160" />
+<img src="https://gpvc.arturio.dev/skyv26" width="100" />
+
+### Let's Connect On:
+<a href="https://www.linkedin.com/in/skyv2022/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
+</a>
