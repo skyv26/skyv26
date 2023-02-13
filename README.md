@@ -1,4 +1,4 @@
-# Hi there 👋, **I'm Aakash Verma** 🇮🇳 
+# Hi 👋, **I'm Aakash Verma** 🇮🇳 
 <br />
 <img src='./vector.svg' width="100%">
 
@@ -9,7 +9,7 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 - 🔭 I’m currently working on full-stack projects using React library on front-end and Ruby on Rails on back-end.
 - 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
 - 👯 I’m looking to collaborate on **Open Source** and **IoT** projects. 
-- 💬 Ask me *anything* about `Techonology`
+- 💬 Ask me *anything* about `Technology`
 - 📫 <a href="mailto:dev.aakashv@gmail.com">Send an email</a> 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love electronics and programming.
