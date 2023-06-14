@@ -34,7 +34,6 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 </a>
 <br />
 <br />
-<img src="https://gpvc.arturio.dev/skyv26" width="100" />
 
 ### Let's Connect On:
 <a href="https://www.linkedin.com/in/skyv2022/">
@@ -44,3 +43,10 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 <a href="https://twitter.com/vrma_aakash">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /> 
 </a>
+<br />
+<br />
+<br />
+<hr>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=skyv26&style=for-the-badge&color=orange" width="200" />
+</div>
