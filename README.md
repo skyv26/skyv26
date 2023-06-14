@@ -28,7 +28,9 @@ I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of exper
 <br />
 <br />
 <a href="https://github.com/skyv26">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=skyv26&theme=tokyo-night&hide_border=true&text_color=ffffff" />
+  
+  ![Aakash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyv26&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+  
 </a>
 <br />
 <br />
