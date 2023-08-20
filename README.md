@@ -4,9 +4,9 @@
 
 <br />
 
-I am a passionate **Full Stack Developer** from **INDIA** with 1+ years of experience in Web Development.
+I am a passionate **Full Stack Developer** from **INDIA** with overall 2+ years of experience in web technologies. I have overall 4+ years of experience and worked on different technologies throughout my professional career. 
 
-- 🔭 I’m currently working on full-stack projects using React library on front-end and Ruby on Rails on back-end.
+- 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
 - 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
 - 👯 I’m looking to collaborate on **Open Source** and **IoT** projects. 
 - 💬 Ask me *anything* about `Technology`
