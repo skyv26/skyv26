@@ -1,10 +1,35 @@
-# Hi 👋, **I'm Aakash Verma** 🇮🇳 
+# Hi 👋, **I'm Aakash Verma (Software Engineer)** 🇮🇳 
 <br />
 <img src='./vector.svg' width="100%">
 
 <br />
 
-I am a passionate **Full Stack Developer** from **INDIA** with overall 2+ years of experience in web technologies. I have overall 4+ years of experience and worked on different technologies throughout my professional career. 
+Hello, I'm Aakash Verma, a dedicated software engineer based in India with 4 years of comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.
+
+## About Me
+
+- **Experience**: 4 years in IT
+- **Front-End Development**: 2 years
+- **Back-End Development (Ruby on Rails)**: 1+ year
+
+## Project Highlights
+
+I've worked on over 20 projects, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring more than 10 students on Microverse and over 100 developers on the "Frontend Mentor" platform. I've also made more than 3000+ contributions on GitHub.
+
+## Skills
+
+Here's a glimpse of the skills I bring to the table:
+
+- **Front-End Technologies**: React.js (including Redux.js, Redux Thunk, and Redux/Toolkit), HTML5
+- **Back-End Technologies**: Ruby on Rails, Node.js, Express.js, GraphQL, Apollo, Django (Beginner)
+- **Deployment**: Render, Vercel, Netlify, Railway.app, Heroku
+- **Programming Languages**: JavaScript, Ruby, Python, Embedded C/C++
+- **Databases**: MySQL, PostgreSQL, MongoDB, MariaDB
+- **Testing**: Jest, RSpec, Rubocop, Capybara
+- **Bundle Technologies**: Vite, Webpack, Parcel
+- **Styling**: Ant Design, TailwindCSS, Chakra-UI, styled-components, SASS/SCSS, Bootstrap, CSS3
+
+## What I'm doing at presently ?
 
 - 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
 - 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
