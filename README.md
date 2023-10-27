@@ -4,23 +4,29 @@
 
 <br />
 
-Hello, I'm Aakash Verma, a dedicated software engineer based in India with 4 years of comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.
+**A dedicated software engineer based in India with 4 years of comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.**
 
 ## About Me
 
-- **Experience**: 4 years in IT
-- **Front-End Development**: 2 years
-- **Back-End Development (Ruby on Rails)**: 1+ year
-
+- **Overall ~4 years of experience combinely in IT 🖥️ and Electronics :electron: field.**
+- **Specialize in full-stack web development with 2+ years in front-end and 1+ years in back-end technologies.**
+- **Top 30 mentor 😎 on the [Frontend Mentor](https://www.frontendmentor.io/).**
+- **Collaborated with more than 100+ software developers all around the world remotely 💻.**
+- **Level 1 seller on the Fiverr freelancing platform with positive feedback 🟢 and 5 ⭐ rating.**
+- **Completed 30+ front-end projects of all levels using the latest javascript technologies and deployed them all successfully on different platforms.**
+- **Delivered 10+ IOT and electronics projects worldwide 🗺️**
+- **4000+ contribution 🗽 on the Github**
+- **Completed 500+ code 📊 reviews for full-stack web projects using Github's Feature.**
+ 
 ## Project Highlights
 
-I've worked on over 20 projects, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring more than 10 students on Microverse and over 100 developers on the "Frontend Mentor" platform. I've also made more than 4000+ contributions on GitHub and successfully reviewed more than 400+ projects of the developers around the world.
+I've worked on over 60+ projects with different technologies, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring students in Microverse and "Frontend Mentor" platform. I've also made more than 4000+ contributions on GitHub and successfully reviewed many projects of developers around the world.
 
 ## Skills
 
 Here's a glimpse of the skills I bring to the table:
 
-- **Front-End Technologies**: React.js (including Redux.js, Redux Thunk, and Redux/Toolkit), HTML5
+- **Front-End Technologies**: React.js (including Redux.js, Redux Thunk, and Redux/Toolkit), HTML5, Vanilla JS
 - **Back-End Technologies**: Ruby on Rails, Node.js, Express.js, GraphQL, Apollo, Django (Beginner)
 - **Deployment**: Render, Vercel, Netlify, Railway.app, Heroku
 - **Programming Languages**: JavaScript, Ruby, Python, Embedded C/C++
@@ -32,7 +38,7 @@ Here's a glimpse of the skills I bring to the table:
 ## What I'm doing presently?
 
 - 🔭 I’m currently working on full-stack projects using the React library on the front end and Ruby on Rails on the back end.
-- 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
+- 🌱 I’m currently learning SSR, PWA's and other popular CSS frameworks. 
 - 👯 I’m looking to collaborate on **Open Source** and **IoT** projects. 
 - 💬 Ask me *anything* about `Technology`
 - 📫 <a href="mailto:dev.aakashv@gmail.com">Send an email</a> 
