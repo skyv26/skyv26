@@ -17,10 +17,6 @@
 - **Delivered 10+ IOT and electronics projects worldwide 🗺️**
 - **4000+ contribution 🗽 on the Github**
 - **Completed 500+ code 📊 reviews for full-stack web projects using Github's Feature.**
- 
-## Project Highlights
-
-I've worked on over 60+ projects with different technologies, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring students in Microverse and "Frontend Mentor" platform. I've also made more than 4000+ contributions on GitHub and successfully reviewed many projects of developers around the world.
 
 ## Skills
 
