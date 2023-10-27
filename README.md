@@ -14,7 +14,7 @@ Hello, I'm Aakash Verma, a dedicated software engineer based in India with 4 yea
 
 ## Project Highlights
 
-I've worked on over 20 projects, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring more than 10 students on Microverse and over 100 developers on the "Frontend Mentor" platform. I've also made more than 3000+ contributions on GitHub.
+I've worked on over 20 projects, spanning all levels of complexity, and successfully deployed them on various online servers such as GitHub Pages, Netlify, Vercel, Render, and Railway platforms. Additionally, I have over 1 year of volunteering experience, mentoring more than 10 students on Microverse and over 100 developers on the "Frontend Mentor" platform. I've also made more than 4000+ contributions on GitHub and successfully reviewed more than 400+ projects of the developers around the world.
 
 ## Skills
 
@@ -29,9 +29,9 @@ Here's a glimpse of the skills I bring to the table:
 - **Bundle Technologies**: Vite, Webpack, Parcel
 - **Styling**: Ant Design, TailwindCSS, Chakra-UI, styled-components, SASS/SCSS, Bootstrap, CSS3
 
-## What I'm doing at presently ?
+## What I'm doing presently?
 
-- 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
+- 🔭 I’m currently working on full-stack projects using the React library on the front end and Ruby on Rails on the back end.
 - 🌱 I’m currently learning SSR, PWA's and CSS frameworks. 
 - 👯 I’m looking to collaborate on **Open Source** and **IoT** projects. 
 - 💬 Ask me *anything* about `Technology`
