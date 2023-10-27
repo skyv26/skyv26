@@ -1,7 +1,6 @@
 # Hi 👋, **I'm Aakash Verma (Software Engineer)** 🇮🇳 
 <br />
 <img src='./vector.svg' width="100%">
-
 <br />
 
 **A dedicated software engineer based in India with 4 years of comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.**
@@ -18,6 +17,23 @@
 - **4000+ contribution 🗽 on the Github**
 - **Completed 500+ code 📊 reviews for full-stack web projects using Github's Feature.**
 
+#### Let's Connect On:
+<a href="https://www.linkedin.com/in/skyv2022/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
+</a>
+
+<a href="https://twitter.com/devaakashv">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /> 
+</a>
+
+<a href="https://www.frontendmentor.io/profile/skyv26">
+  <img src="https://img.shields.io/badge/Frontend_Mentor-rgb(63, 84, 163)?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="" /> 
+</a>
+
+<a href="https://instagram.com/skybrel">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /> 
+</a>
+
 ## Skills
 
 Here's a glimpse of the skills I bring to the table:
@@ -30,6 +46,7 @@ Here's a glimpse of the skills I bring to the table:
 - **Testing**: Jest, RSpec, Rubocop, Capybara
 - **Bundle Technologies**: Vite, Webpack, Parcel
 - **Styling**: Ant Design, TailwindCSS, Chakra-UI, styled-components, SASS/SCSS, Bootstrap, CSS3
+
 
 ## What I'm doing presently?
 
@@ -62,14 +79,6 @@ Here's a glimpse of the skills I bring to the table:
 <br />
 <br />
 
-### Let's Connect On:
-<a href="https://www.linkedin.com/in/skyv2022/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
-</a>
-
-<a href="https://twitter.com/vrma_aakash">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /> 
-</a>
 <br />
 <br />
 <br />
