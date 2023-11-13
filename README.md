@@ -8,7 +8,7 @@
 ## About Me
 
 - **Overall ~4 years of experience combinely in IT 🖥️ and Electronics :electron: field.**
-- **Specialize in full-stack web development with 2+ years in front-end and 1+ years in back-end technologies.**
+- **Specialize in full-stack web development with 2+ years in web technologies.**
 - **Top 30 mentor 😎 on the [Frontend Mentor](https://www.frontendmentor.io/).**
 - **Collaborated with more than 100+ software developers all around the world remotely 💻.**
 - **Level 1 seller on the Fiverr freelancing platform with positive feedback 🟢 and 5 ⭐ rating.**
