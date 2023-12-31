@@ -7,7 +7,7 @@
 
 ## About Me
 
-- **Overall ~4 years of experience combinely in IT 🖥️ and Electronics :electron: field.**
+- **Overall ~3 years of experience combinely in IT 🖥️ and Electronics :electron: field.**
 - **Specialize in full-stack web development with 2+ years in web technologies.**
 - **Top 30 mentor 😎 on the [Frontend Mentor](https://www.frontendmentor.io/).**
 - **Collaborated with more than 100+ software developers all around the world remotely 💻.**
