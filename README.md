@@ -78,7 +78,6 @@ Here's a glimpse of the skills I bring to the table:
 </a>
 <br />
 <br />
-
 <br />
 <br />
 <br />
