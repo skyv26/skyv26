@@ -3,16 +3,15 @@
 <img src='./vector.svg' width="100%">
 <br />
 
-**A dedicated software engineer based in India with 3 years of comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.**
+**A dedicated software engineer based in India with comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.**
 
 ## About Me
 
-- **Overall ~3 years of experience combinely in IT 🖥️ and Electronics :electron: field.**
+- **Experienced in IT 🖥️ and Electronics :electron: field.**
 - **Specialize in full-stack web development with 2+ years in web technologies.**
 - **Top 40 mentor 😎 on the [Frontend Mentor](https://www.frontendmentor.io/).**
 - **Collaborated with more than 100+ software developers all around the world remotely 💻.**
-- **Level 1 seller on the Fiverr freelancing platform with positive feedback 🟢 and 5 ⭐ rating.**
-- **Completed 30+ front-end projects of all levels using the latest javascript technologies and deployed them all successfully on different platforms.**
+- **Completed 50+ front-end projects of all levels using the latest javascript technologies and deployed them all successfully on different platforms.**
 - **Delivered 10+ IOT and electronics projects worldwide 🗺️**
 - **4000+ contribution 🗽 on the Github**
 - **Completed 500+ code 📊 reviews for full-stack web projects using Github's Feature.**
