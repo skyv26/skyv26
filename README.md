@@ -46,7 +46,6 @@ Here's a glimpse of the skills I bring to the table:
 - **Bundle Technologies**: Vite, Webpack, Parcel
 - **Styling**: Ant Design, TailwindCSS, Chakra-UI, styled-components, SASS/SCSS, Bootstrap, CSS3
 
-
 ## What I'm doing presently?
 
 - 🔭 I’m currently working on full-stack projects using the React library on the front end and Ruby on Rails on the back end.
