@@ -3,7 +3,7 @@
 <img src='./vector.svg' width="100%">
 <br />
 
-**A dedicated software engineer based in India with comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions.**
+**A dedicated software developer based in India with comprehensive experience in the IT industry. I specialize in both front-end and back-end development, and I'm passionate about building robust and user-friendly software solutions using technologies.**
 
 ## About Me
 
