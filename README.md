@@ -13,8 +13,8 @@
 - **Collaborated with more than 100+ software developers all around the world remotely 💻.**
 - **Completed 50+ front-end projects of all levels using the latest javascript technologies and deployed them all successfully on different platforms.**
 - **Delivered 10+ IOT and electronics projects worldwide 🗺️**
-- **4000+ contribution 🗽 on the Github**
-- **Completed 500+ code 📊 reviews for full-stack web projects using Github's Feature.**
+- **5000+ contribution 🗽 on the Github**
+- **Completed 700+ code 📊 reviews for full-stack web projects using Github's Feature.**
 
 #### Let's Connect On:
 <a href="https://www.linkedin.com/in/skyv2022/">
