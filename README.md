@@ -3,7 +3,7 @@
 ## 🚀 Software Engineer, Technical Consultant & Thought Leader
 
 <div align="center">
-  <img src="./vector.svg" width="100%" />
+  <img src="./aakash_cover.png" width="100%" />
 </div>
 
 <h3 align="center">
