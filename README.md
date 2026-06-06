@@ -218,6 +218,30 @@ I don’t just deliver software — I deliver clarity, structure, and direction.
 
 ---
 
+# 🎵 Music & Creative Work
+
+_Beyond engineering, I create music as **skybrel** — finding emotion in silence, meaning in chaos, and stories in moments most people miss. Inspired by late-night thoughts, cinematic visuals, and reflective feelings._
+
+> **Latest Release:** 🎧 **"3 AM"** (2026)
+
+<div align="left">
+  <a href="https://open.spotify.com/artist/2dGQpFvIvy3tANrmozUd1n"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@skybrel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://push.fm/fl/bhyf4zmq"><img src="https://img.shields.io/badge/Listen_Everywhere-Amazon_Music_•_Apple_•_More-FF9900?style=for-the-badge&logo=amazonmusic&logoColor=white"/></a>
+  <a href="https://merch-studio.musixmatch.com/product/3504d0f9-0867-4acd-904a-9be5acd2c36c?source=embed"><img src="https://img.shields.io/badge/Shop_Merch-Musixmatch_Studio-1A1A1A?style=for-the-badge&logo=musixmatch&logoColor=white"/></a>
+  <a href="https://ko-fi.com/skybrel"><img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</div>
+
+<br/>
+
+| Platform | Profile |
+| -------- | ------- |
+| 🎧 Spotify | [skybrel](https://open.spotify.com/artist/2dGQpFvIvy3tANrmozUd1n) |
+| ▶️ YouTube | [@skybrel](https://www.youtube.com/@skybrel) |
+| 🛒 PUSH.me | [Platform Link](https://push.fm/fl/bhyf4zmq) |
+| 🛍️ Merch | [Shop on Musixmatch Studio](https://merch-studio.musixmatch.com/product/3504d0f9-0867-4acd-904a-9be5acd2c36c?source=embed) |
+| ☕ Support Me | [Click Here](https://ko-fi.com/skybrel) |
+
 # 📫 Connect & Network
 
 <div align="left">
