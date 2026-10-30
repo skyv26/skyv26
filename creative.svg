@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">Skybrel creative artwork</title>
+<desc id="desc">Abstract sound-wave and music-inspired editorial artwork.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="currentColor" stroke-opacity=".10" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#E76F36" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#E76F36" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  :root { color: #242424; }
+  @media (prefers-color-scheme: dark) {
+    :root { color: #eeeeea; }
+  }
+  .ink { fill: currentColor; }
+  .muted { fill: currentColor; opacity: .62; }
+  .line { stroke: currentColor; stroke-opacity: .35; fill: none; }
+  .orange { fill: #E76F36; }
+  .orange-line { stroke: #E76F36; fill: none; }
+  text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+</style>
+
+<rect width="1200" height="210" fill="url(#grid)"/>
+<g transform="translate(100 105)" stroke="#E76F36" fill="none" stroke-width="3">
+<path d="M0 0V-18M24 0V-42M48 0V-68M72 0V-30M96 0V-12M120 0V-52M144 0V-80M168 0V-35M192 0V-18M216 0V-62M240 0V-90M264 0V-46M288 0V-16M312 0V-40M336 0V-72M360 0V-25M384 0V-12M408 0V-56M432 0V-82M456 0V-32M480 0V-15M504 0V-48M528 0V-70M552 0V-26M576 0V-12M600 0V-60M624 0V-88M648 0V-35M672 0V-18M696 0V-52M720 0V-74M744 0V-28M768 0V-14M792 0V-44M816 0V-66M840 0V-30M864 0V-14M888 0V-48M912 0V-76M936 0V-25"/>
+</g>
+<text x="1100" y="175" text-anchor="end" class="ink" font-size="26" font-weight="700" letter-spacing="5">SKYBREL / SOUND & STORY</text>
+
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Architecture illustration</title>
+<desc id="desc">Layered application architecture as an editorial systems map.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="currentColor" stroke-opacity=".10" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#E76F36" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#E76F36" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  :root { color: #242424; }
+  @media (prefers-color-scheme: dark) {
+    :root { color: #eeeeea; }
+  }
+  .ink { fill: currentColor; }
+  .muted { fill: currentColor; opacity: .62; }
+  .line { stroke: currentColor; stroke-opacity: .35; fill: none; }
+  .orange { fill: #E76F36; }
+  .orange-line { stroke: #E76F36; fill: none; }
+  text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+</style>
+
+<rect width="1200" height="250" fill="url(#grid)"/>
+<g transform="translate(60 34)">
+<rect x="0" y="0" width="210" height="55" class="line"/>
+<rect x="245" y="0" width="210" height="55" class="line"/>
+<rect x="490" y="0" width="210" height="55" class="line"/>
+<rect x="735" y="0" width="210" height="55" class="line"/>
+<text x="20" y="34" class="ink" font-size="16">EXPERIENCE</text>
+<text x="265" y="34" class="ink" font-size="16">APPLICATION</text>
+<text x="510" y="34" class="ink" font-size="16">INTELLIGENCE</text>
+<text x="755" y="34" class="ink" font-size="16">DATA</text>
+<path d="M105 55V105H840V55M350 55V105M595 55V105" class="orange-line" stroke-width="2"/>
+<path d="M105 105V145M350 105V145M595 105V145M840 105V145" class="line" stroke-width="2"/>
+<rect x="0" y="145" width="210" height="48" class="line"/>
+<rect x="245" y="145" width="210" height="48" class="line"/>
+<rect x="490" y="145" width="210" height="48" class="line"/>
+<rect x="735" y="145" width="210" height="48" class="line"/>
+<text x="20" y="175" class="muted" font-size="14">WEB / MOBILE / DESKTOP</text>
+<text x="265" y="175" class="muted" font-size="14">DOMAIN SERVICES</text>
+<text x="510" y="175" class="muted" font-size="14">TOOLS / RETRIEVAL</text>
+<text x="755" y="175" class="muted" font-size="14">SQL / CACHE / FILES</text>
+</g>
+<text x="1140" y="230" text-anchor="end" class="orange" font-size="13" letter-spacing="3">SYSTEMS MAP / 01</text>
+
+</svg>

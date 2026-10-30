@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Writing and ideas artwork</title>
+<desc id="desc">Editorial typographic composition representing writing and reflection.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="currentColor" stroke-opacity=".10" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#E76F36" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#E76F36" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  :root { color: #242424; }
+  @media (prefers-color-scheme: dark) {
+    :root { color: #eeeeea; }
+  }
+  .ink { fill: currentColor; }
+  .muted { fill: currentColor; opacity: .62; }
+  .line { stroke: currentColor; stroke-opacity: .35; fill: none; }
+  .orange { fill: #E76F36; }
+  .orange-line { stroke: #E76F36; fill: none; }
+  text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+</style>
+
+<rect width="1200" height="190" fill="url(#grid)"/>
+<path d="M90 30H1110M90 155H1110" class="line"/>
+<text x="100" y="105" class="ink" font-size="58" font-weight="750" letter-spacing="-2">IDEAS</text>
+<text x="365" y="105" class="orange" font-size="58" font-weight="750" letter-spacing="-2">×</text>
+<text x="450" y="105" class="ink" font-size="58" font-weight="750" letter-spacing="-2">SYSTEMS</text>
+<text x="1100" y="135" text-anchor="end" class="muted" font-size="13" letter-spacing="3">NOTES / ESSAYS / PERSPECTIVES</text>
+
+</svg>
