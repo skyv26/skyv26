@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">05 — SMILE MEDICAL HOSPITAL</title>
+<desc id="d">Abstract editorial artwork for SMILE MEDICAL HOSPITAL (healthcare / institutional).</desc>
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#171717" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .ink{fill:#171717} .soft{fill:#64748B} .mut{fill:#8A8A85} .acc{fill:#E76F36}
+  .ln{stroke:#171717;stroke-opacity:.30;fill:none}
+  .lns{stroke:#171717;fill:none}
+  .al{stroke:#E76F36;fill:none}
+  text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+</style>
+<rect width="1200" height="340" fill="url(#g)"/>
+<path d="M0 1H1200M0 339H1200" class="ln" stroke-width="2"/><path d="M576 30V310" class="ln"/><text x="48" y="58" class="mut" font-size="13" letter-spacing="4">05 / HEALTHCARE / INSTITUTIONAL</text><text x="42" y="200" class="acc" font-size="150" font-weight="800" letter-spacing="-8" opacity=".95">05</text><text x="48" y="248" class="ink" font-size="36" font-weight="750" letter-spacing="-1">SMILE</text><text x="48" y="286" class="ink" font-size="36" font-weight="750" letter-spacing="-1">MEDICAL HOSPITAL</text><rect x="48" y="74" width="40" height="4" class="acc"/><text x="102" y="80" class="ink" font-size="12" letter-spacing="3" font-weight="700">LIVE / SMILEDMI-SL.COM</text><g transform="translate(600 60)"><rect x="0" y="0" width="64" height="64" class="ln" stroke-width="2"/><text x="8" y="20" class="mut mono" font-size="11">01</text><rect x="78" y="0" width="64" height="64" class="ln" stroke-width="1"/><text x="86" y="20" class="mut mono" font-size="11">02</text><rect x="156" y="0" width="64" height="64" class="ln" stroke-width="1"/><text x="164" y="20" class="mut mono" font-size="11">03</text><rect x="234" y="0" width="64" height="64" class="ln" stroke-width="2"/><text x="242" y="20" class="mut mono" font-size="11">04</text><rect x="312" y="0" width="64" height="64" class="acc"/><path d="M344 14V50M326 32H362" stroke="#FFFFFF" stroke-width="8"/><rect x="390" y="0" width="64" height="64" class="ln" stroke-width="1"/><text x="398" y="20" class="mut mono" font-size="11">06</text><rect x="468" y="0" width="64" height="64" class="ln" stroke-width="2"/><text x="476" y="20" class="mut mono" font-size="11">07</text><rect x="0" y="78" width="64" height="64" class="ln" stroke-width="1"/><text x="8" y="98" class="mut mono" font-size="11">08</text><rect x="78" y="78" width="64" height="64" class="ln" stroke-width="1"/><text x="86" y="98" class="mut mono" font-size="11">09</text><rect x="156" y="78" width="64" height="64" class="ln" stroke-width="2"/><text x="164" y="98" class="mut mono" font-size="11">10</text><rect x="234" y="78" width="64" height="64" class="ln" stroke-width="1"/><text x="242" y="98" class="mut mono" font-size="11">11</text><rect x="312" y="78" width="64" height="64" class="ln" stroke-width="1"/><text x="320" y="98" class="mut mono" font-size="11">12</text><rect x="390" y="78" width="64" height="64" class="ln" stroke-width="2"/><text x="398" y="98" class="mut mono" font-size="11">13</text><rect x="468" y="78" width="64" height="64" class="ln" stroke-width="1"/><text x="476" y="98" class="mut mono" font-size="11">14</text><path d="M0 200H170L190 170L215 228L240 150L262 200H546" class="al" stroke-width="3" stroke-linejoin="round"/><text x="0" y="246" class="mut" font-size="12" letter-spacing="3">14 CLINICAL SERVICES / LAB / INSURANCE / CARE</text></g></svg>

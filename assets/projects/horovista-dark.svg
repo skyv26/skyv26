@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">06 — HOROVISTA</title>
+<desc id="d">Abstract editorial artwork for HOROVISTA (astrology / own product).</desc>
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#F3F0E8" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .ink{fill:#F3F0E8} .soft{fill:#A3ACB9} .mut{fill:#8A8A85} .acc{fill:#E76F36}
+  .ln{stroke:#F3F0E8;stroke-opacity:.32;fill:none}
+  .lns{stroke:#F3F0E8;fill:none}
+  .al{stroke:#E76F36;fill:none}
+  text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+</style>
+<rect width="1200" height="340" fill="url(#g)"/>
+<path d="M0 1H1200M0 339H1200" class="ln" stroke-width="2"/><path d="M576 30V310" class="ln"/><text x="640" y="58" class="mut" font-size="13" letter-spacing="4">06 / ASTROLOGY / OWN PRODUCT</text><text x="634" y="205" class="acc" font-size="150" font-weight="800" letter-spacing="-8" opacity=".95">06</text><text x="640" y="276" class="ink" font-size="36" font-weight="750" letter-spacing="-1">HOROVISTA</text><rect x="640" y="74" width="40" height="4" class="acc"/><text x="694" y="80" class="ink" font-size="12" letter-spacing="3" font-weight="700">LIVE / HOROVISTA.COM</text><g transform="translate(48 60)"><rect x="0" y="10" width="200" height="200" class="lns" stroke-width="2"/><path d="M0 10L200 210M200 10L0 210" class="lns" stroke-width="1.5"/><path d="M100.0 10L200 110.0L100.0 210L0 110.0Z" class="lns" stroke-width="1.5"/><path d="M100.0 10L150.0 60.0L100.0 110.0L50.0 60.0Z" class="acc" opacity=".9"/><text x="100.0" y="65.0" class="mono" font-size="13" text-anchor="middle" fill="#FFFFFF">1</text><g transform="translate(250 30)"><path d="M0 10Q70 -6 140 10V170Q70 154 0 170Z" class="lns" stroke-width="2"/><path d="M140 10Q210 -6 280 10V170Q210 154 140 170Z" class="lns" stroke-width="2"/><path d="M18 38H120" class="ln"/><path d="M160 38H262" class="ln"/><path d="M18 58H120" class="ln"/><path d="M160 58H232" class="ln"/><path d="M18 78H120" class="ln"/><path d="M160 78H262" class="ln"/><path d="M18 98H120" class="ln"/><path d="M160 98H232" class="ln"/><path d="M18 118H120" class="ln"/><path d="M160 118H262" class="ln"/><path d="M18 138H120" class="ln"/><path d="M160 138H232" class="ln"/><path d="M232 0V58L244 48L256 58V0" class="acc"/></g><path d="M250 222C320 196 460 196 530 222" class="al" stroke-width="2"/><circle cx="390" cy="203" r="6" class="acc"/><text x="0" y="246" class="mut" font-size="12" letter-spacing="3">12 HOUSES / DASHA TIMELINE / DIGITAL BOOK</text></g></svg>

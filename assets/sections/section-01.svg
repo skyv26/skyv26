@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Section 01">
+<style>text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}</style>
+<path d="M0 94H1200" stroke="#8A8A85" stroke-opacity=".55" stroke-width="2"/>
+<text x="0" y="84" fill="#E76F36" font-size="96" font-weight="800" letter-spacing="-6">01</text>
+<rect x="150" y="66" width="12" height="12" fill="#E76F36"/>
+<text x="176" y="78" fill="#8A8A85" font-size="14" letter-spacing="5">PROOF OF WORK</text>
+<text x="1200" y="78" fill="#8A8A85" font-size="14" letter-spacing="4" text-anchor="end">01 / 10</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">04 — GENUINE CONSULTANCY SERVICES</title>
+<desc id="d">Abstract editorial artwork for GENUINE CONSULTANCY SERVICES (professional services).</desc>
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#F3F0E8" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .ink{fill:#F3F0E8} .soft{fill:#A3ACB9} .mut{fill:#8A8A85} .acc{fill:#E76F36}
+  .ln{stroke:#F3F0E8;stroke-opacity:.32;fill:none}
+  .lns{stroke:#F3F0E8;fill:none}
+  .al{stroke:#E76F36;fill:none}
+  text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+</style>
+<rect width="1200" height="340" fill="url(#g)"/>
+<path d="M0 1H1200M0 339H1200" class="ln" stroke-width="2"/><path d="M576 30V310" class="ln"/><text x="640" y="58" class="mut" font-size="13" letter-spacing="4">04 / PROFESSIONAL SERVICES</text><text x="634" y="200" class="acc" font-size="150" font-weight="800" letter-spacing="-8" opacity=".95">04</text><text x="640" y="248" class="ink" font-size="36" font-weight="750" letter-spacing="-1">GENUINE</text><text x="640" y="286" class="ink" font-size="36" font-weight="750" letter-spacing="-1">CONSULTANCY SERVICES</text><rect x="640" y="74" width="40" height="4" class="acc"/><text x="694" y="80" class="ink" font-size="12" letter-spacing="3" font-weight="700">LIVE PRODUCT</text><g transform="translate(48 60)"><path d="M0 0V220" class="ln" stroke-opacity=".14"/><path d="M45 0V220" class="ln" stroke-opacity=".14"/><path d="M90 0V220" class="ln" stroke-opacity=".14"/><path d="M135 0V220" class="ln" stroke-opacity=".14"/><path d="M180 0V220" class="ln" stroke-opacity=".14"/><path d="M225 0V220" class="ln" stroke-opacity=".14"/><path d="M270 0V220" class="ln" stroke-opacity=".14"/><path d="M315 0V220" class="ln" stroke-opacity=".14"/><path d="M360 0V220" class="ln" stroke-opacity=".14"/><path d="M405 0V220" class="ln" stroke-opacity=".14"/><path d="M450 0V220" class="ln" stroke-opacity=".14"/><path d="M495 0V220" class="ln" stroke-opacity=".14"/><path d="M540 0V220" class="ln" stroke-opacity=".14"/><rect x="0" y="10" width="270" height="34" class="ink"/><rect x="0" y="58" width="200" height="10" class="ln"/><rect x="0" y="76" width="235" height="10" class="ln"/><rect x="0" y="94" width="160" height="10" class="ln"/><rect x="0" y="130" width="78" height="78" class="ln" stroke-width="2"/><text x="10" y="152" class="mut mono" font-size="11">S/01</text><rect x="90" y="130" width="78" height="78" class="ln" stroke-width="2"/><text x="100" y="152" class="mut mono" font-size="11">S/02</text><rect x="180" y="130" width="78" height="78" class="ln" stroke-width="2"/><text x="190" y="152" class="mut mono" font-size="11">S/03</text><path d="M300 27H405V120H495V180" class="al" stroke-width="3"/><circle cx="495" cy="192" r="14" class="acc"/><rect x="360" y="150" width="70" height="46" class="lns" stroke-width="2"/><path d="M360 150L395 176L430 150" class="lns" stroke-width="2"/><text x="0" y="246" class="mut" font-size="12" letter-spacing="3">POSITIONING / SERVICES / ENQUIRY</text></g></svg>

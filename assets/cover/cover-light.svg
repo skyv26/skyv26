@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+<title id="t">Aakash Verma — engineering journal cover</title>
+<desc id="d">Editorial cover: Aakash Verma, software engineer, full-stack developer, AI systems and product architecture.</desc>
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#171717" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .ink{fill:#171717} .soft{fill:#64748B} .mut{fill:#8A8A85} .acc{fill:#E76F36}
+  .ln{stroke:#171717;stroke-opacity:.30;fill:none}
+  .lns{stroke:#171717;fill:none}
+  .al{stroke:#E76F36;fill:none}
+  text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+</style>
+<rect width="1200" height="420" fill="url(#g)"/>
+<path d="M0 1H1200M0 419H1200" class="ln" stroke-width="2"/><text x="48" y="58" class="mut" font-size="13" letter-spacing="4">ENGINEERING JOURNAL / ISSUE 002 / DEPLOYED WORK</text><text x="44" y="168" class="ink" font-size="104" font-weight="800" letter-spacing="-5">AAKASH</text><text x="44" y="268" class="ink" font-size="104" font-weight="800" letter-spacing="-5">VERMA<tspan class="acc">.</tspan></text><text x="48" y="318" class="soft" font-size="17" letter-spacing="2.5">SOFTWARE ENGINEER  /  FULL-STACK DEVELOPER</text><text x="48" y="346" class="soft" font-size="17" letter-spacing="2.5">AI SYSTEMS &amp; PRODUCT ARCHITECTURE</text><path d="M48 384H520" class="al" stroke-width="4"/><path d="M760 30V390" class="ln"/><path d="M760 100H1152" class="ln" stroke-opacity=".18"/><text x="780" y="86" class="acc mono" font-size="13">01</text><text x="826" y="86" class="ink" font-size="20" font-weight="700" letter-spacing="2">EDUCATION</text><text x="1152" y="86" class="mut mono" font-size="13" text-anchor="end">P.03</text><path d="M760 150H1152" class="ln" stroke-opacity=".18"/><text x="780" y="136" class="acc mono" font-size="13">02</text><text x="826" y="136" class="ink" font-size="20" font-weight="700" letter-spacing="2">HEALTHCARE</text><text x="1152" y="136" class="mut mono" font-size="13" text-anchor="end">P.05</text><path d="M760 200H1152" class="ln" stroke-opacity=".18"/><text x="780" y="186" class="acc mono" font-size="13">03</text><text x="826" y="186" class="ink" font-size="20" font-weight="700" letter-spacing="2">FINTECH</text><text x="1152" y="186" class="mut mono" font-size="13" text-anchor="end">P.01 / A</text><path d="M760 250H1152" class="ln" stroke-opacity=".18"/><text x="780" y="236" class="acc mono" font-size="13">04</text><text x="826" y="236" class="ink" font-size="20" font-weight="700" letter-spacing="2">SCIENCE</text><text x="1152" y="236" class="mut mono" font-size="13" text-anchor="end">P.02</text><path d="M760 300H1152" class="ln" stroke-opacity=".18"/><text x="780" y="286" class="acc mono" font-size="13">05</text><text x="826" y="286" class="ink" font-size="20" font-weight="700" letter-spacing="2">SERVICES</text><text x="1152" y="286" class="mut mono" font-size="13" text-anchor="end">P.04</text><path d="M760 350H1152" class="ln" stroke-opacity=".18"/><text x="780" y="336" class="acc mono" font-size="13">06</text><text x="826" y="336" class="ink" font-size="20" font-weight="700" letter-spacing="2">ASTROLOGY</text><text x="1152" y="336" class="mut mono" font-size="13" text-anchor="end">P.06</text><text x="1152" y="400" class="mut" font-size="12" letter-spacing="3" text-anchor="end">SIX DOMAINS / ONE ENGINEER / SKYV26</text></svg>

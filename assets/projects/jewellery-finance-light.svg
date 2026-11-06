@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">A — JEWELLERY FINANCE SAAS</title>
+<desc id="d">Abstract editorial artwork for JEWELLERY FINANCE SAAS (fintech / saas — in development).</desc>
+<defs>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#171717" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+</defs>
+<style>
+  .ink{fill:#171717} .soft{fill:#64748B} .mut{fill:#8A8A85} .acc{fill:#E76F36}
+  .ln{stroke:#171717;stroke-opacity:.30;fill:none}
+  .lns{stroke:#171717;fill:none}
+  .al{stroke:#E76F36;fill:none}
+  text{font-family:'Helvetica Neue', Helvetica, Inter, Arial, ui-sans-serif, system-ui, sans-serif}
+  .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+</style>
+<rect width="1200" height="340" fill="url(#g)"/>
+<path d="M0 1H1200M0 339H1200" class="ln" stroke-width="2"/><path d="M576 30V310" class="ln"/><text x="48" y="58" class="mut" font-size="13" letter-spacing="4">A / FINTECH / SAAS — IN DEVELOPMENT</text><text x="42" y="200" class="acc" font-size="150" font-weight="800" letter-spacing="-8" opacity=".95">A</text><text x="48" y="248" class="ink" font-size="36" font-weight="750" letter-spacing="-1">JEWELLERY</text><text x="48" y="286" class="ink" font-size="36" font-weight="750" letter-spacing="-1">FINANCE SAAS</text><rect x="48" y="74" width="40" height="4" class="acc"/><text x="102" y="80" class="ink" font-size="12" letter-spacing="3" font-weight="700">IN DEVELOPMENT</text><g transform="translate(600 60)"><path d="M10 120L30 80H130L150 120Z" class="acc"/><text x="80" y="110" class="mono" font-size="16" text-anchor="middle" fill="#FFFFFF">Au</text><path d="M40 170L60 130H160L180 170Z" class="lns" stroke-width="2"/><text x="110" y="160" class="ink mono" font-size="16" text-anchor="middle">Ag</text><path d="M230 30V190M190 190H270M170 60H290" class="lns" stroke-width="2"/><path d="M170 60L150 110H190Z M290 60L270 100H310Z" class="ln" stroke-width="1.5"/><circle cx="230" cy="30" r="6" class="acc"/><g transform="translate(340 20)"><rect width="210" height="170" class="lns" stroke-width="2"/><path d="M0 26H210M90 0V170M150 0V170" class="ln"/><path d="M10 50H70M100 50H138M160 50H200" class="ln"/><path d="M10 76H70M100 76H138M160 76H188" class="ln"/><path d="M10 102H70M100 102H138M160 102H176" class="ln"/><path d="M10 128H70M100 128H138M160 128H200" class="ln"/><path d="M10 154H70M100 154H138M160 154H188" class="ln"/><rect x="150" y="104" width="60" height="26" class="acc" opacity=".85"/><text x="10" y="18" class="mut mono" font-size="10">ITEM</text><text x="98" y="18" class="mut mono" font-size="10">WT g</text><text x="158" y="18" class="mut mono" font-size="10">VALUE</text></g><text x="0" y="246" class="mut" font-size="12" letter-spacing="3">VALUATION / INVENTORY / LOANS / MULTI-TENANT</text></g></svg>
